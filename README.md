@@ -15,8 +15,29 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0023-merge-k-sorted-lists](https://github.com/Hemranjan/Grinding-DSA/tree/master/0023-merge-k-sorted-lists) |
+| [0767-reorganize-string](https://github.com/Hemranjan/Grinding-DSA/tree/master/0767-reorganize-string) |
 ## Merge Sort
 |  |
 | ------- |
 | [0023-merge-k-sorted-lists](https://github.com/Hemranjan/Grinding-DSA/tree/master/0023-merge-k-sorted-lists) |
+## Hash Table
+|  |
+| ------- |
+| [0767-reorganize-string](https://github.com/Hemranjan/Grinding-DSA/tree/master/0767-reorganize-string) |
+## String
+|  |
+| ------- |
+| [0767-reorganize-string](https://github.com/Hemranjan/Grinding-DSA/tree/master/0767-reorganize-string) |
+## Greedy
+|  |
+| ------- |
+| [0767-reorganize-string](https://github.com/Hemranjan/Grinding-DSA/tree/master/0767-reorganize-string) |
+## Sorting
+|  |
+| ------- |
+| [0767-reorganize-string](https://github.com/Hemranjan/Grinding-DSA/tree/master/0767-reorganize-string) |
+## Counting
+|  |
+| ------- |
+| [0767-reorganize-string](https://github.com/Hemranjan/Grinding-DSA/tree/master/0767-reorganize-string) |
 <!---LeetCode Topics End-->
