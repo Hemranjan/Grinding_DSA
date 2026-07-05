@@ -16,6 +16,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0023-merge-k-sorted-lists](https://github.com/Hemranjan/Grinding-DSA/tree/master/0023-merge-k-sorted-lists) |
+| [0295-find-median-from-data-stream](https://github.com/Hemranjan/Grinding-DSA/tree/master/0295-find-median-from-data-stream) |
 | [0767-reorganize-string](https://github.com/Hemranjan/Grinding-DSA/tree/master/0767-reorganize-string) |
 ## Merge Sort
 |  |
@@ -36,6 +37,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Sorting
 |  |
 | ------- |
+| [0295-find-median-from-data-stream](https://github.com/Hemranjan/Grinding-DSA/tree/master/0295-find-median-from-data-stream) |
 | [0767-reorganize-string](https://github.com/Hemranjan/Grinding-DSA/tree/master/0767-reorganize-string) |
 ## Counting
 |  |
@@ -44,5 +46,14 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Two Pointers
 |  |
 | ------- |
+| [0295-find-median-from-data-stream](https://github.com/Hemranjan/Grinding-DSA/tree/master/0295-find-median-from-data-stream) |
 | [0876-middle-of-the-linked-list](https://github.com/Hemranjan/Grinding-DSA/tree/master/0876-middle-of-the-linked-list) |
+## Design
+|  |
+| ------- |
+| [0295-find-median-from-data-stream](https://github.com/Hemranjan/Grinding-DSA/tree/master/0295-find-median-from-data-stream) |
+## Data Stream
+|  |
+| ------- |
+| [0295-find-median-from-data-stream](https://github.com/Hemranjan/Grinding-DSA/tree/master/0295-find-median-from-data-stream) |
 <!---LeetCode Topics End-->
