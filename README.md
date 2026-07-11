@@ -57,4 +57,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0295-find-median-from-data-stream](https://github.com/Hemranjan/Grinding-DSA/tree/master/0295-find-median-from-data-stream) |
+## Array
+|  |
+| ------- |
+| [0051-n-queens](https://github.com/Hemranjan/Grinding-DSA/tree/master/0051-n-queens) |
+## Backtracking
+|  |
+| ------- |
+| [0051-n-queens](https://github.com/Hemranjan/Grinding-DSA/tree/master/0051-n-queens) |
 <!---LeetCode Topics End-->
