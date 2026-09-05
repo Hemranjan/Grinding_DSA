@@ -70,6 +70,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Math
 |  |
 | ------- |
+| [0009-palindrome-number](https://github.com/Hemranjan/Grinding-DSA/tree/master/0009-palindrome-number) |
 | [2614-prime-in-diagonal](https://github.com/Hemranjan/Grinding-DSA/tree/master/2614-prime-in-diagonal) |
 | [3875-construct-uniform-parity-array-i](https://github.com/Hemranjan/Grinding-DSA/tree/master/3875-construct-uniform-parity-array-i) |
 ## Matrix
