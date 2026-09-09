@@ -26,11 +26,13 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0767-reorganize-string](https://github.com/Hemranjan/Grinding-DSA/tree/master/0767-reorganize-string) |
+| [2062-count-vowel-substrings-of-a-string](https://github.com/Hemranjan/Grinding-DSA/tree/master/2062-count-vowel-substrings-of-a-string) |
 ## String
 |  |
 | ------- |
 | [0006-zigzag-conversion](https://github.com/Hemranjan/Grinding-DSA/tree/master/0006-zigzag-conversion) |
 | [0767-reorganize-string](https://github.com/Hemranjan/Grinding-DSA/tree/master/0767-reorganize-string) |
+| [2062-count-vowel-substrings-of-a-string](https://github.com/Hemranjan/Grinding-DSA/tree/master/2062-count-vowel-substrings-of-a-string) |
 ## Greedy
 |  |
 | ------- |
