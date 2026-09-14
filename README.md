@@ -65,6 +65,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0051-n-queens](https://github.com/Hemranjan/Grinding-DSA/tree/master/0051-n-queens) |
+| [0746-min-cost-climbing-stairs](https://github.com/Hemranjan/Grinding-DSA/tree/master/0746-min-cost-climbing-stairs) |
 | [1295-find-numbers-with-even-number-of-digits](https://github.com/Hemranjan/Grinding-DSA/tree/master/1295-find-numbers-with-even-number-of-digits) |
 | [2614-prime-in-diagonal](https://github.com/Hemranjan/Grinding-DSA/tree/master/2614-prime-in-diagonal) |
 | [3875-construct-uniform-parity-array-i](https://github.com/Hemranjan/Grinding-DSA/tree/master/3875-construct-uniform-parity-array-i) |
@@ -88,4 +89,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [2614-prime-in-diagonal](https://github.com/Hemranjan/Grinding-DSA/tree/master/2614-prime-in-diagonal) |
+## Dynamic Programming
+|  |
+| ------- |
+| [0746-min-cost-climbing-stairs](https://github.com/Hemranjan/Grinding-DSA/tree/master/0746-min-cost-climbing-stairs) |
 <!---LeetCode Topics End-->
