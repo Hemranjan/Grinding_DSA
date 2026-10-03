@@ -39,7 +39,7 @@ public:
                 return INT_MIN;
             }
 
-            
+            i++;
         }
 
         return sign * ans;
