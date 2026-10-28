@@ -42,6 +42,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Sorting
 |  |
 | ------- |
+| [0075-sort-colors](https://github.com/Hemranjan/Grinding-DSA/tree/master/0075-sort-colors) |
 | [0295-find-median-from-data-stream](https://github.com/Hemranjan/Grinding-DSA/tree/master/0295-find-median-from-data-stream) |
 | [0767-reorganize-string](https://github.com/Hemranjan/Grinding-DSA/tree/master/0767-reorganize-string) |
 ## Counting
@@ -51,6 +52,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Two Pointers
 |  |
 | ------- |
+| [0075-sort-colors](https://github.com/Hemranjan/Grinding-DSA/tree/master/0075-sort-colors) |
 | [0295-find-median-from-data-stream](https://github.com/Hemranjan/Grinding-DSA/tree/master/0295-find-median-from-data-stream) |
 | [0557-reverse-words-in-a-string-iii](https://github.com/Hemranjan/Grinding-DSA/tree/master/0557-reverse-words-in-a-string-iii) |
 | [0876-middle-of-the-linked-list](https://github.com/Hemranjan/Grinding-DSA/tree/master/0876-middle-of-the-linked-list) |
@@ -66,6 +68,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0051-n-queens](https://github.com/Hemranjan/Grinding-DSA/tree/master/0051-n-queens) |
+| [0075-sort-colors](https://github.com/Hemranjan/Grinding-DSA/tree/master/0075-sort-colors) |
 | [0746-min-cost-climbing-stairs](https://github.com/Hemranjan/Grinding-DSA/tree/master/0746-min-cost-climbing-stairs) |
 | [1295-find-numbers-with-even-number-of-digits](https://github.com/Hemranjan/Grinding-DSA/tree/master/1295-find-numbers-with-even-number-of-digits) |
 | [2614-prime-in-diagonal](https://github.com/Hemranjan/Grinding-DSA/tree/master/2614-prime-in-diagonal) |
@@ -107,4 +110,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0509-fibonacci-number](https://github.com/Hemranjan/Grinding-DSA/tree/master/0509-fibonacci-number) |
+## Quicksort
+|  |
+| ------- |
+| [0075-sort-colors](https://github.com/Hemranjan/Grinding-DSA/tree/master/0075-sort-colors) |
+## Bubble Sort
+|  |
+| ------- |
+| [0075-sort-colors](https://github.com/Hemranjan/Grinding-DSA/tree/master/0075-sort-colors) |
 <!---LeetCode Topics End-->
