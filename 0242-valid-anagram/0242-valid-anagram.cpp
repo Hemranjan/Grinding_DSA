@@ -1,4 +1,30 @@
 
+// class Solution {
+// public:
+//     bool isAnagram(string &s, string &t) {
+
+//         if(s.length() != t.length()) {
+//             return false;
+//         }
+
+//         int freq[26] = {0};
+
+//         for(int i = 0; i < s.length(); i++) {
+//             freq[s[i] - 'a']++;
+//             freq[t[i] - 'a']--;
+//         }
+
+//         for(int i = 0; i < 26; i++) {
+//             if(freq[i] != 0) {
+//                 return false;
+//             }
+//         }
+
+//         return true;
+//     }
+// };
+
+
 class Solution {
 public:
     bool isAnagram(string &s, string &t) {
@@ -7,15 +33,18 @@ public:
             return false;
         }
 
-        int freq[26] = {0};
+        unordered_map<char, int> mp;
 
+        // Count frequency of characters in s
         for(int i = 0; i < s.length(); i++) {
-            freq[s[i] - 'a']++;
-            freq[t[i] - 'a']--;
+            mp[s[i]]++;
         }
 
-        for(int i = 0; i < 26; i++) {
-            if(freq[i] != 0) {
+        // Decrease frequency using characters of t
+        for(int i = 0; i < t.length(); i++) {
+            mp[t[i]]--;
+
+            if(mp[t[i]] < 0) {
                 return false;
             }
         }
