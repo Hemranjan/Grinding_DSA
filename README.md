@@ -25,6 +25,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Hash Table
 |  |
 | ------- |
+| [0205-isomorphic-strings](https://github.com/Hemranjan/Grinding-DSA/tree/master/0205-isomorphic-strings) |
 | [0767-reorganize-string](https://github.com/Hemranjan/Grinding-DSA/tree/master/0767-reorganize-string) |
 | [2062-count-vowel-substrings-of-a-string](https://github.com/Hemranjan/Grinding-DSA/tree/master/2062-count-vowel-substrings-of-a-string) |
 | [3005-count-elements-with-maximum-frequency](https://github.com/Hemranjan/Grinding-DSA/tree/master/3005-count-elements-with-maximum-frequency) |
@@ -34,6 +35,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0006-zigzag-conversion](https://github.com/Hemranjan/Grinding-DSA/tree/master/0006-zigzag-conversion) |
 | [0008-string-to-integer-atoi](https://github.com/Hemranjan/Grinding-DSA/tree/master/0008-string-to-integer-atoi) |
 | [0014-longest-common-prefix](https://github.com/Hemranjan/Grinding-DSA/tree/master/0014-longest-common-prefix) |
+| [0205-isomorphic-strings](https://github.com/Hemranjan/Grinding-DSA/tree/master/0205-isomorphic-strings) |
 | [0344-reverse-string](https://github.com/Hemranjan/Grinding-DSA/tree/master/0344-reverse-string) |
 | [0557-reverse-words-in-a-string-iii](https://github.com/Hemranjan/Grinding-DSA/tree/master/0557-reverse-words-in-a-string-iii) |
 | [0680-valid-palindrome-ii](https://github.com/Hemranjan/Grinding-DSA/tree/master/0680-valid-palindrome-ii) |
