@@ -13,7 +13,7 @@ public:
             for (int j = 1; j < strs.size(); j++) {
 
                 // Check if index exists or characters differ
-                if (i >= strs[j].length() || strs[j][i] != ch) {
+                if (i > strs[j].length() || strs[j][i] != ch) {
                     return ans;
                 }
             }
@@ -25,7 +25,6 @@ public:
         return ans;
     }
 };
-
 
 //using hashing:-
 // class Solution {
