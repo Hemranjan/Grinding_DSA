@@ -91,6 +91,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0204-count-primes](https://github.com/Hemranjan/Grinding-DSA/tree/master/0204-count-primes) |
 | [0746-min-cost-climbing-stairs](https://github.com/Hemranjan/Grinding-DSA/tree/master/0746-min-cost-climbing-stairs) |
 | [1295-find-numbers-with-even-number-of-digits](https://github.com/Hemranjan/Grinding-DSA/tree/master/1295-find-numbers-with-even-number-of-digits) |
+| [1480-running-sum-of-1d-array](https://github.com/Hemranjan/Grinding-DSA/tree/master/1480-running-sum-of-1d-array) |
 | [2614-prime-in-diagonal](https://github.com/Hemranjan/Grinding-DSA/tree/master/2614-prime-in-diagonal) |
 | [3005-count-elements-with-maximum-frequency](https://github.com/Hemranjan/Grinding-DSA/tree/master/3005-count-elements-with-maximum-frequency) |
 | [3875-construct-uniform-parity-array-i](https://github.com/Hemranjan/Grinding-DSA/tree/master/3875-construct-uniform-parity-array-i) |
@@ -166,4 +167,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0451-sort-characters-by-frequency](https://github.com/Hemranjan/Grinding-DSA/tree/master/0451-sort-characters-by-frequency) |
+## Prefix Sum
+|  |
+| ------- |
+| [1480-running-sum-of-1d-array](https://github.com/Hemranjan/Grinding-DSA/tree/master/1480-running-sum-of-1d-array) |
 <!---LeetCode Topics End-->
