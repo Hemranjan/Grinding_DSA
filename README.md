@@ -92,6 +92,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0746-min-cost-climbing-stairs](https://github.com/Hemranjan/Grinding-DSA/tree/master/0746-min-cost-climbing-stairs) |
 | [1295-find-numbers-with-even-number-of-digits](https://github.com/Hemranjan/Grinding-DSA/tree/master/1295-find-numbers-with-even-number-of-digits) |
 | [1480-running-sum-of-1d-array](https://github.com/Hemranjan/Grinding-DSA/tree/master/1480-running-sum-of-1d-array) |
+| [1752-check-if-array-is-sorted-and-rotated](https://github.com/Hemranjan/Grinding-DSA/tree/master/1752-check-if-array-is-sorted-and-rotated) |
 | [2614-prime-in-diagonal](https://github.com/Hemranjan/Grinding-DSA/tree/master/2614-prime-in-diagonal) |
 | [3005-count-elements-with-maximum-frequency](https://github.com/Hemranjan/Grinding-DSA/tree/master/3005-count-elements-with-maximum-frequency) |
 | [3875-construct-uniform-parity-array-i](https://github.com/Hemranjan/Grinding-DSA/tree/master/3875-construct-uniform-parity-array-i) |
