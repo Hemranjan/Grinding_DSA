@@ -89,6 +89,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0051-n-queens](https://github.com/Hemranjan/Grinding-DSA/tree/master/0051-n-queens) |
 | [0075-sort-colors](https://github.com/Hemranjan/Grinding-DSA/tree/master/0075-sort-colors) |
 | [0204-count-primes](https://github.com/Hemranjan/Grinding-DSA/tree/master/0204-count-primes) |
+| [0485-max-consecutive-ones](https://github.com/Hemranjan/Grinding-DSA/tree/master/0485-max-consecutive-ones) |
 | [0746-min-cost-climbing-stairs](https://github.com/Hemranjan/Grinding-DSA/tree/master/0746-min-cost-climbing-stairs) |
 | [1295-find-numbers-with-even-number-of-digits](https://github.com/Hemranjan/Grinding-DSA/tree/master/1295-find-numbers-with-even-number-of-digits) |
 | [1480-running-sum-of-1d-array](https://github.com/Hemranjan/Grinding-DSA/tree/master/1480-running-sum-of-1d-array) |
