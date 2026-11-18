@@ -28,6 +28,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0205-isomorphic-strings](https://github.com/Hemranjan/Grinding-DSA/tree/master/0205-isomorphic-strings) |
 | [0242-valid-anagram](https://github.com/Hemranjan/Grinding-DSA/tree/master/0242-valid-anagram) |
+| [0268-missing-number](https://github.com/Hemranjan/Grinding-DSA/tree/master/0268-missing-number) |
 | [0451-sort-characters-by-frequency](https://github.com/Hemranjan/Grinding-DSA/tree/master/0451-sort-characters-by-frequency) |
 | [0767-reorganize-string](https://github.com/Hemranjan/Grinding-DSA/tree/master/0767-reorganize-string) |
 | [2062-count-vowel-substrings-of-a-string](https://github.com/Hemranjan/Grinding-DSA/tree/master/2062-count-vowel-substrings-of-a-string) |
@@ -56,6 +57,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0075-sort-colors](https://github.com/Hemranjan/Grinding-DSA/tree/master/0075-sort-colors) |
 | [0242-valid-anagram](https://github.com/Hemranjan/Grinding-DSA/tree/master/0242-valid-anagram) |
+| [0268-missing-number](https://github.com/Hemranjan/Grinding-DSA/tree/master/0268-missing-number) |
 | [0295-find-median-from-data-stream](https://github.com/Hemranjan/Grinding-DSA/tree/master/0295-find-median-from-data-stream) |
 | [0451-sort-characters-by-frequency](https://github.com/Hemranjan/Grinding-DSA/tree/master/0451-sort-characters-by-frequency) |
 | [0767-reorganize-string](https://github.com/Hemranjan/Grinding-DSA/tree/master/0767-reorganize-string) |
@@ -89,6 +91,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0051-n-queens](https://github.com/Hemranjan/Grinding-DSA/tree/master/0051-n-queens) |
 | [0075-sort-colors](https://github.com/Hemranjan/Grinding-DSA/tree/master/0075-sort-colors) |
 | [0204-count-primes](https://github.com/Hemranjan/Grinding-DSA/tree/master/0204-count-primes) |
+| [0268-missing-number](https://github.com/Hemranjan/Grinding-DSA/tree/master/0268-missing-number) |
 | [0485-max-consecutive-ones](https://github.com/Hemranjan/Grinding-DSA/tree/master/0485-max-consecutive-ones) |
 | [0746-min-cost-climbing-stairs](https://github.com/Hemranjan/Grinding-DSA/tree/master/0746-min-cost-climbing-stairs) |
 | [1295-find-numbers-with-even-number-of-digits](https://github.com/Hemranjan/Grinding-DSA/tree/master/1295-find-numbers-with-even-number-of-digits) |
@@ -107,6 +110,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0009-palindrome-number](https://github.com/Hemranjan/Grinding-DSA/tree/master/0009-palindrome-number) |
 | [0070-climbing-stairs](https://github.com/Hemranjan/Grinding-DSA/tree/master/0070-climbing-stairs) |
 | [0204-count-primes](https://github.com/Hemranjan/Grinding-DSA/tree/master/0204-count-primes) |
+| [0268-missing-number](https://github.com/Hemranjan/Grinding-DSA/tree/master/0268-missing-number) |
 | [0507-perfect-number](https://github.com/Hemranjan/Grinding-DSA/tree/master/0507-perfect-number) |
 | [0509-fibonacci-number](https://github.com/Hemranjan/Grinding-DSA/tree/master/0509-fibonacci-number) |
 | [1295-find-numbers-with-even-number-of-digits](https://github.com/Hemranjan/Grinding-DSA/tree/master/1295-find-numbers-with-even-number-of-digits) |
@@ -173,4 +177,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [1480-running-sum-of-1d-array](https://github.com/Hemranjan/Grinding-DSA/tree/master/1480-running-sum-of-1d-array) |
+## Binary Search
+|  |
+| ------- |
+| [0268-missing-number](https://github.com/Hemranjan/Grinding-DSA/tree/master/0268-missing-number) |
+## Bit Manipulation
+|  |
+| ------- |
+| [0268-missing-number](https://github.com/Hemranjan/Grinding-DSA/tree/master/0268-missing-number) |
 <!---LeetCode Topics End-->
