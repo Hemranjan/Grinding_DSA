@@ -26,6 +26,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Hash Table
 |  |
 | ------- |
+| [0001-two-sum](https://github.com/Hemranjan/Grinding-DSA/tree/master/0001-two-sum) |
 | [0205-isomorphic-strings](https://github.com/Hemranjan/Grinding-DSA/tree/master/0205-isomorphic-strings) |
 | [0242-valid-anagram](https://github.com/Hemranjan/Grinding-DSA/tree/master/0242-valid-anagram) |
 | [0268-missing-number](https://github.com/Hemranjan/Grinding-DSA/tree/master/0268-missing-number) |
@@ -90,6 +91,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Array
 |  |
 | ------- |
+| [0001-two-sum](https://github.com/Hemranjan/Grinding-DSA/tree/master/0001-two-sum) |
 | [0014-longest-common-prefix](https://github.com/Hemranjan/Grinding-DSA/tree/master/0014-longest-common-prefix) |
 | [0051-n-queens](https://github.com/Hemranjan/Grinding-DSA/tree/master/0051-n-queens) |
 | [0075-sort-colors](https://github.com/Hemranjan/Grinding-DSA/tree/master/0075-sort-colors) |
