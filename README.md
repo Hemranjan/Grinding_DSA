@@ -35,6 +35,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0451-sort-characters-by-frequency](https://github.com/Hemranjan/Grinding-DSA/tree/master/0451-sort-characters-by-frequency) |
 | [0767-reorganize-string](https://github.com/Hemranjan/Grinding-DSA/tree/master/0767-reorganize-string) |
 | [2062-count-vowel-substrings-of-a-string](https://github.com/Hemranjan/Grinding-DSA/tree/master/2062-count-vowel-substrings-of-a-string) |
+| [2965-find-missing-and-repeated-values](https://github.com/Hemranjan/Grinding-DSA/tree/master/2965-find-missing-and-repeated-values) |
 | [3005-count-elements-with-maximum-frequency](https://github.com/Hemranjan/Grinding-DSA/tree/master/3005-count-elements-with-maximum-frequency) |
 ## String
 |  |
@@ -108,6 +109,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1480-running-sum-of-1d-array](https://github.com/Hemranjan/Grinding-DSA/tree/master/1480-running-sum-of-1d-array) |
 | [1752-check-if-array-is-sorted-and-rotated](https://github.com/Hemranjan/Grinding-DSA/tree/master/1752-check-if-array-is-sorted-and-rotated) |
 | [2614-prime-in-diagonal](https://github.com/Hemranjan/Grinding-DSA/tree/master/2614-prime-in-diagonal) |
+| [2965-find-missing-and-repeated-values](https://github.com/Hemranjan/Grinding-DSA/tree/master/2965-find-missing-and-repeated-values) |
 | [3005-count-elements-with-maximum-frequency](https://github.com/Hemranjan/Grinding-DSA/tree/master/3005-count-elements-with-maximum-frequency) |
 | [3875-construct-uniform-parity-array-i](https://github.com/Hemranjan/Grinding-DSA/tree/master/3875-construct-uniform-parity-array-i) |
 ## Backtracking
@@ -126,11 +128,13 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1295-find-numbers-with-even-number-of-digits](https://github.com/Hemranjan/Grinding-DSA/tree/master/1295-find-numbers-with-even-number-of-digits) |
 | [1523-count-odd-numbers-in-an-interval-range](https://github.com/Hemranjan/Grinding-DSA/tree/master/1523-count-odd-numbers-in-an-interval-range) |
 | [2614-prime-in-diagonal](https://github.com/Hemranjan/Grinding-DSA/tree/master/2614-prime-in-diagonal) |
+| [2965-find-missing-and-repeated-values](https://github.com/Hemranjan/Grinding-DSA/tree/master/2965-find-missing-and-repeated-values) |
 | [3875-construct-uniform-parity-array-i](https://github.com/Hemranjan/Grinding-DSA/tree/master/3875-construct-uniform-parity-array-i) |
 ## Matrix
 |  |
 | ------- |
 | [2614-prime-in-diagonal](https://github.com/Hemranjan/Grinding-DSA/tree/master/2614-prime-in-diagonal) |
+| [2965-find-missing-and-repeated-values](https://github.com/Hemranjan/Grinding-DSA/tree/master/2965-find-missing-and-repeated-values) |
 ## Number Theory
 |  |
 | ------- |
