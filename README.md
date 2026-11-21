@@ -28,6 +28,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0001-two-sum](https://github.com/Hemranjan/Grinding-DSA/tree/master/0001-two-sum) |
 | [0205-isomorphic-strings](https://github.com/Hemranjan/Grinding-DSA/tree/master/0205-isomorphic-strings) |
+| [0229-majority-element-ii](https://github.com/Hemranjan/Grinding-DSA/tree/master/0229-majority-element-ii) |
 | [0242-valid-anagram](https://github.com/Hemranjan/Grinding-DSA/tree/master/0242-valid-anagram) |
 | [0268-missing-number](https://github.com/Hemranjan/Grinding-DSA/tree/master/0268-missing-number) |
 | [0349-intersection-of-two-arrays](https://github.com/Hemranjan/Grinding-DSA/tree/master/0349-intersection-of-two-arrays) |
@@ -58,6 +59,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0075-sort-colors](https://github.com/Hemranjan/Grinding-DSA/tree/master/0075-sort-colors) |
+| [0229-majority-element-ii](https://github.com/Hemranjan/Grinding-DSA/tree/master/0229-majority-element-ii) |
 | [0242-valid-anagram](https://github.com/Hemranjan/Grinding-DSA/tree/master/0242-valid-anagram) |
 | [0268-missing-number](https://github.com/Hemranjan/Grinding-DSA/tree/master/0268-missing-number) |
 | [0295-find-median-from-data-stream](https://github.com/Hemranjan/Grinding-DSA/tree/master/0295-find-median-from-data-stream) |
@@ -67,6 +69,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Counting
 |  |
 | ------- |
+| [0229-majority-element-ii](https://github.com/Hemranjan/Grinding-DSA/tree/master/0229-majority-element-ii) |
 | [0451-sort-characters-by-frequency](https://github.com/Hemranjan/Grinding-DSA/tree/master/0451-sort-characters-by-frequency) |
 | [0767-reorganize-string](https://github.com/Hemranjan/Grinding-DSA/tree/master/0767-reorganize-string) |
 | [3005-count-elements-with-maximum-frequency](https://github.com/Hemranjan/Grinding-DSA/tree/master/3005-count-elements-with-maximum-frequency) |
@@ -96,6 +99,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0051-n-queens](https://github.com/Hemranjan/Grinding-DSA/tree/master/0051-n-queens) |
 | [0075-sort-colors](https://github.com/Hemranjan/Grinding-DSA/tree/master/0075-sort-colors) |
 | [0204-count-primes](https://github.com/Hemranjan/Grinding-DSA/tree/master/0204-count-primes) |
+| [0229-majority-element-ii](https://github.com/Hemranjan/Grinding-DSA/tree/master/0229-majority-element-ii) |
 | [0268-missing-number](https://github.com/Hemranjan/Grinding-DSA/tree/master/0268-missing-number) |
 | [0349-intersection-of-two-arrays](https://github.com/Hemranjan/Grinding-DSA/tree/master/0349-intersection-of-two-arrays) |
 | [0485-max-consecutive-ones](https://github.com/Hemranjan/Grinding-DSA/tree/master/0485-max-consecutive-ones) |
@@ -192,4 +196,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0268-missing-number](https://github.com/Hemranjan/Grinding-DSA/tree/master/0268-missing-number) |
+## Boyer–Moore Majority Vote Algorithm
+|  |
+| ------- |
+| [0229-majority-element-ii](https://github.com/Hemranjan/Grinding-DSA/tree/master/0229-majority-element-ii) |
 <!---LeetCode Topics End-->
