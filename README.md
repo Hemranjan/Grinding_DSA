@@ -104,6 +104,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0051-n-queens](https://github.com/Hemranjan/Grinding-DSA/tree/master/0051-n-queens) |
 | [0075-sort-colors](https://github.com/Hemranjan/Grinding-DSA/tree/master/0075-sort-colors) |
 | [0088-merge-sorted-array](https://github.com/Hemranjan/Grinding-DSA/tree/master/0088-merge-sorted-array) |
+| [0152-maximum-product-subarray](https://github.com/Hemranjan/Grinding-DSA/tree/master/0152-maximum-product-subarray) |
 | [0204-count-primes](https://github.com/Hemranjan/Grinding-DSA/tree/master/0204-count-primes) |
 | [0229-majority-element-ii](https://github.com/Hemranjan/Grinding-DSA/tree/master/0229-majority-element-ii) |
 | [0268-missing-number](https://github.com/Hemranjan/Grinding-DSA/tree/master/0268-missing-number) |
@@ -150,6 +151,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0070-climbing-stairs](https://github.com/Hemranjan/Grinding-DSA/tree/master/0070-climbing-stairs) |
+| [0152-maximum-product-subarray](https://github.com/Hemranjan/Grinding-DSA/tree/master/0152-maximum-product-subarray) |
 | [0509-fibonacci-number](https://github.com/Hemranjan/Grinding-DSA/tree/master/0509-fibonacci-number) |
 | [0746-min-cost-climbing-stairs](https://github.com/Hemranjan/Grinding-DSA/tree/master/0746-min-cost-climbing-stairs) |
 ## Memoization
